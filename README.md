@@ -9,7 +9,7 @@ and.. now i want to collaborate with planning and development.🙏🏻❣
 Platforms & Languages<br>
 <br>
 <p>
-<img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=Java&logoColor=black">
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -20,9 +20,8 @@ Platforms & Languages<br>
 <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellij idea&logoColor=white">
 <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipse ide&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/mac os-000000?style=for-the-badge&logo=macos&logoColor=white">
-<img src="https://img.shields.io/badge/Rest client-0769AD?style=for-the-badge&logo=REST Client&logoColor=black">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Rest client-0769AD?style=for-the-badge&logo=REST Client&logoColor=black">
 </p>
 
