@@ -1,15 +1,14 @@
-### Pleasure to meet you :)
-Hi there 👋 I'm Backend developer using Spring boot(REST API) and JPA/MyBatis DBMS.📡 <br/>
+<h2>👋 Pleasure to meet you :)</h2>
+Hi there  I'm Backend developer using Spring boot(REST API) and JPA/MyBatis DBMS.📡 <br/>
 I enjoy swimming, bowling and singing. 🏊🏼🎳💃🏼<br/><br/>
 
 I was a 6th year Web-planner. (2015 ~ 2022, Service/Agency/Solution)<br/>
 and.. now i want to collaborate with planning and development.🙏🏻❣
 
-<br/>
-<h2>Skills</h2>
-Platforms & Languages
+<h2>👨🏻‍💻Skills</h2>
+Platforms & Languages<br>
+<br>
 <p>
-
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=Java&logoColor=black">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
