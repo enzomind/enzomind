@@ -9,7 +9,7 @@ I enjoy swimming, bowling and singing🏊🏼🎳💃, and love my girl-friend, 
 
 <h2>🛠 <b>Tech Stack & Tool</b></h2>
 <div>
-<p align="center"> Platforms & Languages<br>
+<p align="left"> Platforms & Languages<br>
 <br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=white">
@@ -23,9 +23,9 @@ I enjoy swimming, bowling and singing🏊🏼🎳💃, and love my girl-friend, 
 
 <br/>
 
-<p align="center"> IDE & using Utility<br>
 <div>
-<p align="center">
+<p align="left"> IDE & using Utility<br>
+<br>
 <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellij idea&logoColor=white">
 <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipse ide&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
