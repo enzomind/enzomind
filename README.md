@@ -2,9 +2,9 @@
 Hi there  I'm <b>Backend developer</b> using JAVA, Spring boot(REST API) and JPA/MyBatis DBMS.📡 <br/>
 
 <br/>I was a 6th year <b>Planner / PM</b>(Project Manager). (2015 ~ 2022, Service & Agency & Solution)<br/>
-and.. now i want to collaborate with planning and development.🙏🏻❣
+Now i want to collaborate with planning and development.🙏🏻❣
 
-I enjoy swimming, bowling and singing🏊🏼🎳💃, and love my girl-friend, my MacBook.👫🏻💻 <br/>
+I enjoy swimming, bowling and singing🏊🏼🎳💃, and love my MacBook.💻 <br/>
 <br/>
 
 <h2>🛠 <b>Tech Stack & Tool</b></h2>
