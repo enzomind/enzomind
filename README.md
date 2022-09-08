@@ -1,7 +1,7 @@
 <h2>👋 Pleasure to meet you :)</h2>
 Hi there  I'm <b>Backend developer</b> using JAVA, Spring boot(REST API) and JPA/MyBatis DBMS.📡 <br/>
 
-<br/>I worked as a web <b>planning manager</b> for 6 years. (2015 ~ 2022, Service & Agency & Solution)<br/>
+<br/>I worked as a web <b>project manager</b> for 6 years. (2015 ~ 2022, Service & Agency & Solution)<br/>
 I want to do something new and creative using my development skills and web planning experience.🙏🏻❣
 
 I enjoy swimming, bowling and singing🏊🏼🎳💃, and love my MacBook.💻 <br/>
