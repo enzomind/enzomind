@@ -4,7 +4,7 @@ Hi there  I'm <b>Backend developer</b> using JAVA, Spring boot(REST API) and JPA
 <br/>I worked as a web <b>project manager</b> for 6 years. (2015 ~ 2022, Service & Agency & Solution)<br/>
 I want to do something new and creative using my development skills and web planning experience.🙏🏻❣
 
-I enjoy swimming, bowling and singing🏊🏼🎳💃, and love my MacBook.💻 <br/>
+I enjoy swimming, bowling and singing🏊🏼🎳💃, And recently i'm faliing in love with this what a sweetie my MacBook.💻 <br/>
 <br/>
 
 <h2>🛠 <b>Tech Stack & Tool</b></h2>
