@@ -1,4 +1,4 @@
-<h2>👋 Pleasure to meet you :)</h2>
+<h2>👋 Thx for you visit! :)</h2>
 Hi there  I'm <b>Backend developer</b> using JAVA, Spring boot(REST API) and JPA/MyBatis DBMS.📡 <br/>
 
 <br/>I worked as a web <b>project manager</b> for 6 years. (2015 ~ 2022, Service & Agency & Solution)<br/>
