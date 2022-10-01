@@ -9,7 +9,7 @@ I enjoy swimming, bowling and singing🏊🏼🎳💃, And recently i'm faliing 
 
 <h2>🛠 <b>Tech Stack & Tool</b></h2>
 <div>
-<p align="left"> Platforms & Languages<br>
+<p align="left"> Platforms & Languages<br> 
 <br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=white">
