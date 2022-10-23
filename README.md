@@ -15,7 +15,7 @@ I enjoy swimming, bowling and singing🏊🏼🎳💃, And recently i'm faliing 
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=black">
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=black">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black">
 <img src="https://img.shields.io/badge/OracleDBMS-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </p>
